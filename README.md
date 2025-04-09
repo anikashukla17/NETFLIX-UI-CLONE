@@ -40,7 +40,7 @@ Inspired by the official Netflix homepage.
 ---  
 ## Author
 
-> ✍️ Made with ❤️ by Anika Shukla
+> ✍️ Made by Anika Shukla
 > Inspired by *Netflix*. Coded from scratch by me using only HTML & CSS. 
 ---
 
