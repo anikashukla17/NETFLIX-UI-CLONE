@@ -23,13 +23,13 @@ This project is a simple frontend clone of Netflix’s homepage, focusing on:
 - Clean button animations
 - Hover effects for UI elements
 - Looks almost *like the real deal* 😎
-- 
 ---
-
 ## Tech Stack Used 🧰
 
 - HTML
 - CSS
+-  Google Fonts
+- Font Awesome Icons
 ---
 ## Screenshot 📸
 ![image](https://github.com/user-attachments/assets/9d840f74-dfd8-4126-ac33-281549791ba8)
@@ -37,4 +37,10 @@ This project is a simple frontend clone of Netflix’s homepage, focusing on:
 ---
 ## Credits 🙌
 Inspired by the official Netflix homepage.
+---  
+## Author
+
+> ✍️ Made with ❤️ by Anika Shukla
+> Inspired by *Netflix*. Coded from scratch by me using only HTML & CSS. 
+---
 
